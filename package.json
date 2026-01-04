@@ -1,0 +1,9 @@
+{
+  "name": "casper-liquid-staking-project",
+  "private": true,
+  "scripts": {
+    "dev": "cd client && npm run dev",
+    "build": "cd client && npm run build",
+    "preview": "cd client && npm run preview"
+  }
+}
